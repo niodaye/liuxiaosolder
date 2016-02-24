@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"%@",@"ss696s");
+    NSLog(@"%@",@"ss696gbatjs");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
