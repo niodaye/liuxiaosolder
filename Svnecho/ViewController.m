@@ -19,6 +19,8 @@
     NSLog(@"%@",@"scsdf");
     NSLog(@"%@",@"scsdf");
     NSLog(@"%@",@"scsdf");
+    NSLog(@"%@",@"scsdf");
+    NSLog(@"%@",@"scsdf");
 
     // Do any additional setup after loading the view, typically from a nib.
 }
